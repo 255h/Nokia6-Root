@@ -2,7 +2,11 @@
 Simple python script to automate Rooting Nokia 6 TA-1021.
 
 # Pre requisites:
-- Adb & Fastboot
+- Adb & Fastboot 
+```
+  sudo apt install android-tools-fastboot
+```
+
 - Only for nokia 6 TA-1021 (!)
 - Downgrade to February Release
 
@@ -18,3 +22,5 @@ Do it on your own Risk! No warranties.
 - Go to: Advanced -> Magisc Root & apply it
 - Wait untill completion and reboot to system
 - Done
+
+
