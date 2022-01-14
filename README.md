@@ -2,6 +2,10 @@
 Simple python script to Root Nokia 6
 
 # Pre requisites:
--Downgrade to february release!
+- Only for nokia 6 TA-1021
+- Downgrade to february release!
+
+# Warning
+Do it on your own Risk! No warranties.
 
 
