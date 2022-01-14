@@ -1,5 +1,5 @@
 # Nokia6-Root
-Simple python script to Root Nokia 6 TA-1021 to automate Rooting on Linux.
+Simple python script to automate Rooting Nokia 6 TA-1021.
 
 # Pre requisites:
 - Adb & Fastboot
