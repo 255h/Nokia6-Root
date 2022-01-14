@@ -16,7 +16,9 @@ Do it on your own Risk! No warranties.
 # How to use:
 - Enable USB debugging
 - Connect via usb
-- python3 ./nokia_root.py
+```
+ python3 ./nokia_root.py
+```
 - Wait until your phone boots into TWRP recovery
 - Go to: Advanced -> Magisc Root & apply it
 - Wait untill completion & reboot to system
